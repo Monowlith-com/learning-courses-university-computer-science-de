@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Links ein Container mit App und Bibliotheken über Containerlaufzeit und gemeinsamem Host-Kernel. Rechts eine virtuelle Maschine mit App, Gastbetriebssystem und Hypervisor über Hosthardware.">
+<title>Container und virtuelle Maschinen</title>
+<desc>Links ein Container mit App und Bibliotheken über Containerlaufzeit und gemeinsamem Host-Kernel. Rechts eine virtuelle Maschine mit App, Gastbetriebssystem und Hypervisor über Hosthardware.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Container und virtuelle Maschinen</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Unterschiedliche Isolations- und Betriebssystemschichten</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<text x="260" y="164" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" text-anchor="middle">Container</text>
+<text x="707" y="164" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" text-anchor="middle">Virtuelle Maschine</text>
+<rect x="80" y="197" width="365" height="58" rx="2" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="262.5" y="234.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Anwendung + Bibliotheken</text>
+<rect x="80" y="264" width="365" height="58" rx="2" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="262.5" y="301.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Containerlaufzeit</text>
+<rect x="80" y="331" width="365" height="58" rx="2" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="262.5" y="368.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Host-Betriebssystem / Kernel</text>
+<rect x="80" y="398" width="365" height="58" rx="2" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="262.5" y="435.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Host-Hardware</text>
+<rect x="527" y="197" width="365" height="58" rx="2" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="709.5" y="234.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Anwendung + Bibliotheken</text>
+<rect x="527" y="264" width="365" height="58" rx="2" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="709.5" y="301.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Gast-Betriebssystem</text>
+<rect x="527" y="331" width="365" height="58" rx="2" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="709.5" y="368.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Hypervisor (vereinfacht)</text>
+<rect x="527" y="398" width="365" height="58" rx="2" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="709.5" y="435.0" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Host-Hardware</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Container teilen sich den Host-Kernel; VMs betreiben ein eigenes Gast-OS.</text>
+</svg>
