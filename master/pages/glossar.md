@@ -1,7 +1,7 @@
 ---
 document_id: "university_computer_science_de:glossar"
 series_id: "university_computer_science_de:M1-L1"
-series_part: 56
+series_part: 57
 document_version: "0.1.0"
 created: "2026-11-12"
 updated: "2026-11-12"
@@ -1282,3 +1282,17 @@ Das Glossar erklärt Fachbegriffe über alle Kurskapitel hinweg. Die genaue Bede
   Forschungsartefakt             Nachprüfbarer Bestandteil einer Untersuchung (Code, Daten, Verfahren)             Veröffentlichbarkeit kann durch Rechte begrenzt sein
   FAIR                           Findable, Accessible, Interoperable, Reusable                                     Zugänglich ist nicht zwangsläufig öffentlich
   ADR                            Architecture Decision Record: dokumentierter Architekturentscheid                 Dokumentation ersetzt keine Neubewertung bei Änderungen
+
+## M8-L4 – Algorithmen und Datenstrukturen vertieft {#S37}
+
+| Begriff | Bedeutung | Wichtig |
+| --- | --- | --- |
+| AVL-Baum | Binärer Suchbaum mit Höhenunterschied höchstens eins je Knoten | Rotation erhält Schlüsselordnung |
+| Balancefaktor | Höhe des linken minus Höhe des rechten Teilbaums | In einem AVL-Baum nur -1, 0 oder 1 |
+| Rot-Schwarz-Baum | Suchbaum mit Farb- und Schwarzhöheninvarianten | Logarithmische Höhenschranke |
+| Schwarzhöhe | Anzahl schwarzer Knoten auf einem Pfad gemäß festgelegter Zählweise | Auf allen Pfaden desselben Ausgangsknotens gleich |
+| Rotation | Lokale Umstrukturierung eines Suchbaums | Inorder-Reihenfolge bleibt erhalten |
+| Min-Heap | Vollständiger Binärbaum mit Elternschlüssel höchstens so groß wie Kindschlüssel | Minimum an der Wurzel, keine vollständige Sortierung |
+| Prioritätswarteschlange | Abstrakter Datentyp für Auswahl nach Priorität | Kann mit Heap implementiert werden |
+
+Weiterführend: [M8-L4](../M8-L4.md).

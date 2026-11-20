@@ -1,7 +1,7 @@
 ---
 document_id: "university_computer_science_de:index"
 series_id: "university_computer_science_de:M1-L1"
-series_part: 57
+series_part: 58
 document_version: "0.1.0"
 created: "2026-11-12"
 updated: "2026-11-12"
@@ -23,7 +23,7 @@ license: "CC BY-NC-SA 4.0 International"
 
 # Kursindex – Informatik {#kursindex}
 
-Alle 49 Lektionen sind nach Modulen geordnet. M = Modul · L = Lektion. Die Lektionen können in Reihenfolge oder als Nachschlagehilfe gelesen werden. Der Kurs ist keine amtliche Studienordnung.
+Alle 50 Lektionen sind nach Modulen geordnet. M = Modul · L = Lektion. Die Lektionen können in Reihenfolge oder als Nachschlagehilfe gelesen werden. Der Kurs ist keine amtliche Studienordnung.
 
 ## M1 – Grundlagen {#S1}
 
@@ -78,6 +78,7 @@ Alle 49 Lektionen sind nach Modulen geordnet. M = Modul · L = Lektion. Die Lekt
 - [M8-L1 – Diskrete Informatik: Logik, Mengen, Relationen und Graphen](../M8-L1.md)
 - [M8-L2 – Formale Sprachen, Automaten und Compiler](../M8-L2.md)
 - [M8-L3 – Betriebssysteme und Nebenläufigkeit vertieft](../M8-L3.md)
+- [M8-L4 – Algorithmen und Datenstrukturen vertieft: balancierte Bäume und Heaps](../M8-L4.md)
 - [M9-L1 – Benutzeroberflächen, Barrierefreiheit und Softwareergonomie](../M9-L1.md)
 - [M9-L2 – Datenanalyse, Visualisierung und statistisches Denken](../M9-L2.md)
 - [M9-L3 – Eingebettete Systeme, Sensoren und Mikrocontroller](../M9-L3.md)

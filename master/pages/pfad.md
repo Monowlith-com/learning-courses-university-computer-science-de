@@ -1,7 +1,7 @@
 ---
 document_id: "university_computer_science_de:pfad"
 series_id: "university_computer_science_de:M1-L1"
-series_part: 58
+series_part: 59
 document_version: "0.1.0"
 created: "2026-11-12"
 updated: "2026-11-12"
@@ -30,11 +30,11 @@ Der Kurs bleibt ein **Lesekurs ohne verpflichtende Aufgaben, Programmierübungen
   Ebene                                      Umfang Charakter                                                                Status
   ----------------------- ------------------------- ------------------------------------------------------------------------ --------------
   Hauptkurs M1–M6                        33 Lektionen Grundkurs zu Informatik, Servern, Datenbanken, Cloud, KI und Robotik     33/33 fertig
-  Bachelor-Wahl M8–M10                 8 Lektionen Freiwillige zusätzliche Fachgebiete                                      8/8 fertig
+  Bachelor-Wahl M8–M10                 9 Lektionen Freiwillige zusätzliche Fachgebiete                                      9/9 fertig
   Master-Kern M7                     6 Lektionen Eigenständiger wissenschaftlich-methodischer Aufbau nach dem Grundkurs   6/6 fertig
   Master-Wahlthemen         8 vorgeschlagene Themen Freiwillige zukünftige Speziallektionen; noch keine Texte                0/8 geplant
 
-Die beiden zusätzlichen Wahllektionen [M11-L1](../M11-L1.md) und [M11-L2](../M11-L2.md) ergänzen den Kurs auf insgesamt 49 Lektionen.
+Die beiden zusätzlichen Wahllektionen [M11-L1](../M11-L1.md) und [M11-L2](../M11-L2.md) ergänzen den Kurs auf insgesamt 50 Lektionen.
 
 „Bachelor“ und „Master“ beschreiben hier ausschließlich **didaktische Vertiefungsniveaus**. Es handelt sich nicht um einen akkreditierten Hochschulstudiengang oder einen akademischen Abschluss. Prüfberichte und Entscheidungsleitfäden im Anhang sind zusätzliche Lektüre und werden **nicht** als weitere Lektionen gezählt.
 
@@ -57,7 +57,7 @@ Die hier genannten Bachelor-Wahllektionen M8–M10 sind **optionale Vorbereitung
 | Master-Lektion | Sinnvolle vorherige Lektüre | Funktion der Brücke |
 | --- | --- | --- |
 | [M7-L1 – Wissenschaftliches Prüfen und Begründen](../M7-L1.md) | [M1-L1](../M1-L1.md), [M1-L3](../M1-L3.md), [M9-L2](../M9-L2.md) | Methodenverständnis; Statistik aus M9-L2 ist hilfreich, aber nicht zwingend |
-| [M7-L2 – Korrektheit und Berechenbarkeit](../M7-L2.md) | [M1-L3](../M1-L3.md), [M8-L1](../M8-L1.md), [M8-L2](../M8-L2.md) | M1-L3 bildet die Basis; M8-L1/M8-L2 vertiefen Logik und Automaten |
+| [M7-L2 – Korrektheit und Berechenbarkeit](../M7-L2.md) | [M1-L3](../M1-L3.md), [M8-L1](../M8-L1.md), [M8-L2](../M8-L2.md), [M8-L4](../M8-L4.md) | M1-L3 bildet die Basis; M8-L1/M8-L2 vertiefen Logik und Automaten, M8-L4 die Algorithmen |
 | [M7-L3 – Verteilte Systeme](../M7-L3.md) | [M2-L5](../M2-L5.md), [M3-L2](../M3-L2.md), [M3-L5](../M3-L5.md), [M4-L1](../M4-L1.md) | Ausfälle, Konsistenz und Auftragsverarbeitung an konkreten Systemen |
 | [M7-L4 – Daten, Schutzbedarf, Architekturwahl](../M7-L4.md) | [M1-L4](../M1-L4.md), [M1-L5](../M1-L5.md), [M3-L2](../M3-L2.md), [M3-L5](../M3-L5.md), [M4-L3](../M4-L3.md), [M10-L1](../M10-L1.md), [M10-L2](../M10-L2.md) | Risiko, Rechte, Transaktionen und Datenmodelle zusammenführen |
 | [M7-L5 – KI wissenschaftlich bewerten](../M7-L5.md) | [M5-L2](../M5-L2.md), [M5-L3](../M5-L3.md), [M6-L1](../M6-L1.md), [M6-L4](../M6-L4.md), [M6-L6](../M6-L6.md), [M9-L2](../M9-L2.md) | Kennzahlen, Datensätze, Systemqualität und Grenzen von Bewertungen |
@@ -81,7 +81,7 @@ Bereitstellungsentscheidung, Fehlermodelle, Überwachung und Kosten gemeinsam be
 
 ### 4.3 Algorithmen, Logik und formale Begründung {#43-algorithmen-logik-und-formale-begründung}
 
-[M1-L3](../M1-L3.md) → [M8-L1](../M8-L1.md) → [M8-L2](../M8-L2.md) → [M7-L1](../M7-L1.md) → [M7-L2](../M7-L2.md)
+[M1-L3](../M1-L3.md) → [M8-L1](../M8-L1.md) → [M8-L4](../M8-L4.md) → [M8-L2](../M8-L2.md) → [M7-L1](../M7-L1.md) → [M7-L2](../M7-L2.md)
 
 Von algorithmischem Aufwand über logische Grundlagen zu Korrektheitsbeweisen und Unentscheidbarkeit.
 

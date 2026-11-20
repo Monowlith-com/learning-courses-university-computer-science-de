@@ -1,7 +1,7 @@
 ---
 document_id: "university_computer_science_de:studienweg"
 series_id: "university_computer_science_de:M1-L1"
-series_part: 59
+series_part: 60
 document_version: "0.1.0"
 created: "2026-11-12"
 updated: "2026-11-18"
@@ -88,13 +88,14 @@ Die folgende Einordnung ist ein **didaktischer Lernweg**, kein Ersatz für ein a
   [M6-L6](../M6-L6.md)                                                  KI-Infrastruktur und verteilte Berechnung           Bachelor / Master (Wahl)
   [M6-L7](../M6-L7.md)                                                Robotik: Vom Sprachmodell zur handelnden Maschine   Bachelor / Master (Wahl)
 
-## M8 – Bachelor: Kerngebiete (3 Lektionen) {#S7}
+## M8 – Bachelor: Kerngebiete (4 Lektionen) {#S7}
 
   ID                                          Lektion                                                      Einordnung
   ------------------------------------------- ------------------------------------------------------------ ------------
   [M8-L1](../M8-L1.md)                                                Diskrete Informatik: Logik, Mengen, Relationen und Graphen   Bachelor
   [M8-L2](../M8-L2.md)                                                Formale Sprachen, Automaten und Compiler                     Bachelor
   [M8-L3](../M8-L3.md)                                                Betriebssysteme und Nebenläufigkeit vertieft                 Bachelor
+  [M8-L4](../M8-L4.md)                                                Algorithmen und Datenstrukturen vertieft                    Bachelor
 
 ## M9 – Bachelor: Wahl- und Praxisgebiete (3 Lektionen) {#S8}
 
