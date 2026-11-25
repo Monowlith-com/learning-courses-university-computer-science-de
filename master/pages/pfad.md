@@ -1,10 +1,10 @@
 ---
 document_id: "university_computer_science_de:pfad"
-series_id: "university_computer_science_de:M1-L1"
-series_part: 59
-document_version: "0.1.0"
+series_id: "university_computer_science_de:_index"
+series_part: 88
+document_version: "0.1.1"
 created: "2026-11-12"
-updated: "2026-11-12"
+updated: "2026-11-24"
 title: "Lernkurs – Informatik: Lesewege und Querverweise"
 author: "Stephan Kühn"
 document_type: "Begleitdokument"

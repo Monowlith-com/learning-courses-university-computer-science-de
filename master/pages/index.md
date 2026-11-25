@@ -1,10 +1,10 @@
 ---
 document_id: "university_computer_science_de:index"
-series_id: "university_computer_science_de:M1-L1"
-series_part: 58
-document_version: "0.1.0"
+series_id: "university_computer_science_de:_index"
+series_part: 87
+document_version: "0.1.1"
 created: "2026-11-12"
-updated: "2026-11-12"
+updated: "2026-11-24"
 title: "Kursindex – Informatik"
 author: "Stephan Kühn"
 document_type: "Begleitdokument"

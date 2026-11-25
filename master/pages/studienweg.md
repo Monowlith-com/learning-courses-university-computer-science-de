@@ -1,10 +1,10 @@
 ---
 document_id: "university_computer_science_de:studienweg"
-series_id: "university_computer_science_de:M1-L1"
-series_part: 60
-document_version: "0.1.0"
+series_id: "university_computer_science_de:_index"
+series_part: 89
+document_version: "0.1.1"
 created: "2026-11-12"
-updated: "2026-11-18"
+updated: "2026-11-24"
 title: "Studienweg"
 author: "Stephan Kühn"
 document_type: "Begleitmaterial"
@@ -136,3 +136,63 @@ Offizielle Modulhandbücher bzw. Studienseiten, Stand 10.11.2026. Die Zuordnung 
 - [M11-L1 – Post-Quanten-Kryptografie und kryptografische Migration](../M11-L1.md) – eigenständige Wahl- und Anwendungslektion, keine Hochschulpflichtveranstaltung.
 - [M11-L2 – Agentic Software Engineering: Software mit KI-Agenten entwickeln](../M11-L2.md) – eigenständige Wahl- und Anwendungslektion, keine Hochschulpflichtveranstaltung.
 :::
+
+## Ergänzende Lernwege und Vertiefungen {#S13}
+
+Die folgenden Lektionen ergänzen die bestehenden Lernwege. Beachte die Niveaus und Voraussetzungen in den Lektionen; die Zuordnung ist keine allgemeingültige Studienordnung.
+
+### M12 – Programmierung und Softwarequalität
+
+- [M12-L1 – Imperative Programmierung und strukturierte Daten](../M12-L1.md) — Bachelor; Kern/Grundlagen
+- [M12-L2 – Funktionale Programmierung und Rekursion](../M12-L2.md) — Bachelor; Kern/Grundlagen
+- [M12-L3 – Objektorientierung, Typen und Polymorphie](../M12-L3.md) — Bachelor; Kern/Grundlagen
+- [M12-L4 – Testentwurf und systematische Softwarequalität](../M12-L4.md) — Bachelor; Kern/Grundlagen
+
+### M13 – Algorithmische Entwurfsverfahren
+
+- [M13-L1 – Graphensuche und kürzeste Wege](../M13-L1.md) — Bachelor; Kern/Grundlagen
+- [M13-L2 – Greedy-Algorithmen und Austauschargumente](../M13-L2.md) — Bachelor; Kern/Grundlagen
+- [M13-L3 – Dynamische Programmierung und Rekurrenzen](../M13-L3.md) — Bachelor; Kern/Grundlagen
+
+### M14 – Formale Sprachen und Komplexität
+
+- [M14-L1 – Endliche Automaten, Potenzmengenkonstruktion und Minimierung](../M14-L1.md) — Bachelor; Kern/Grundlagen
+- [M14-L2 – Reguläre und kontextfreie Sprachen: Beweise und Kellerautomaten](../M14-L2.md) — Bachelor; Kern/Grundlagen
+- [M14-L3 – Turingmaschinen und Entscheidbarkeitsbeweise](../M14-L3.md) — Bachelor; Kern/Grundlagen
+- [M14-L4 – NP-Vollständigkeit und polynomielle Reduktionen](../M14-L4.md) — Bachelor; Kern/Vertiefung
+
+### M15 – Rechnerarchitektur und Betriebssysteme
+
+- [M15-L1 – Digitale Schaltungen und Registertransfer](../M15-L1.md) — Bachelor; Kern
+- [M15-L2 – Befehlssatz, Adressierung und Pipeline](../M15-L2.md) — Bachelor; Kern
+- [M15-L3 – Cache-Organisation und Speicherlokalität](../M15-L3.md) — Bachelor; Kern
+- [M15-L4 – Virtueller Speicher und Seitenersetzung](../M15-L4.md) — Bachelor; Kern/Wahlpflicht
+- [M15-L5 – Nebenläufige Programme: Synchronisation und Deadlockanalyse](../M15-L5.md) — Bachelor; Kern
+
+### M16 – Datenbanken und mathematische Informatik
+
+- [M16-L1 – Relationale Algebra und Anfrageoptimierung](../M16-L1.md) — Bachelor; Kern/Wahlpflicht
+- [M16-L2 – Numerisches Rechnen: Gleitkomma, Fehler und Kondition](../M16-L2.md) — Bachelor; Kern/Brücke
+- [M16-L3 – Diskrete Wahrscheinlichkeit für Algorithmen und Systeme](../M16-L3.md) — Bachelor; Kern/Brücke
+
+### M17 – Compiler und formale Methoden
+
+- [M17-L1 – Lexer und rekursiver Abstieg: ein kleiner Compiler](../M17-L1.md) — Bachelor; Wahlpflicht
+- [M17-L2 – Typprüfung, Zwischenrepräsentation und Compileroptimierung](../M17-L2.md) — Master; Vertiefung
+- [M17-L3 – Hoare-Logik und schwächste Vorbedingungen](../M17-L3.md) — Master; Vertiefung
+- [M17-L4 – Modellprüfung und temporale Eigenschaften](../M17-L4.md) — Master; Vertiefung
+
+### M18 – Paralleles und wissenschaftliches Rechnen
+
+- [M18-L1 – Parallele Algorithmen und wissenschaftliches Rechnen](../M18-L1.md) — Master; Vertiefung
+
+### M19 – Computergrafik und Computer Vision
+
+- [M19-L1 – Computergrafik: Transformation und Rasterisierung](../M19-L1.md) — Bachelor; Wahlpflichtvertiefung
+- [M19-L2 – Computer Vision: Bildfilter und geometrische Merkmale](../M19-L2.md) — Master; Wahlpflichtvertiefung
+
+### M20 – Projekt und Forschung
+
+- [M20-L1 – Reproduzierbares Informatikprojekt und Forschungsbericht](../M20-L1.md) — Bachelor/Master; Projekt
+- [M20-L2 – Interdisziplinäres Informatikprojekt: Modelle, Daten und Verantwortung](../M20-L2.md) — Master; Wahlpflichtvertiefung
+

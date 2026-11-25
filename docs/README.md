@@ -8,8 +8,8 @@ Thematisch gegliederter Lernkurs in deutscher Sprache.
 ![language](https://img.shields.io/badge/language-DE-blue?style=flat-square)
 ![level](https://img.shields.io/badge/level-university-blue?style=flat-square)
 ![subject](https://img.shields.io/badge/subject-Computer%20Science-blue?style=flat-square)
-![modules](https://img.shields.io/badge/modules-11-blue?style=flat-square)
-![lessons](https://img.shields.io/badge/lessons-50-blue?style=flat-square)
+![modules](https://img.shields.io/badge/modules-20-blue?style=flat-square)
+![lessons](https://img.shields.io/badge/lessons-78-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-university-computer-science-de?style=flat-square)
 
@@ -21,7 +21,7 @@ Thematisch gegliederter Lernkurs in deutscher Sprache.
 
 ## Überblick
 
-Dieser Kurs umfasst 50 Lektionen in 11 Modulen. Die Materialien können der Reihe nach gelesen oder gezielt zum Nachschlagen, Wiederholen und Vertiefen verwendet werden. Sie ersetzen keinen Unterricht, kein Studium und keinen anerkannten Abschluss.
+Dieser Kurs umfasst 78 Lektionen in 20 Modulen. Die Materialien können der Reihe nach gelesen oder gezielt zum Nachschlagen, Wiederholen und Vertiefen verwendet werden. Sie ersetzen keinen Unterricht, kein Studium und keinen anerkannten Abschluss.
 
 ## Inhalte
 
